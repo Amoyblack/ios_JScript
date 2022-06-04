@@ -15,3 +15,5 @@ function InitWidget(){
 
     return widget
 }
+
+module.exports.initwg = InitWidget
